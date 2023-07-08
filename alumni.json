@@ -1,11 +1,11 @@
 [
-  { "alumno": "", "nota": 9.09, "ranking": 10 },
+  { "alumno": "", "nota": 7.09, "ranking": 10 },
   { "alumno": "", "nota": 4, "ranking": 150 },
-  { "alumno": "", "nota": 9.2, "ranking": 2 },
-  { "alumno": "", "nota": 7.8, "ranking": 20 },
-  { "alumno": "", "nota": 5.3, "ranking": 80 },
-  { "alumno": "", "nota": 10.0, "ranking": 1 },
-  { "alumno": "", "nota": 4.9, "ranking": 100 },
-  { "alumno": "", "nota": 8.1, "ranking": 15 },
-  { "alumno": "", "nota": 7.4, "ranking":  22}
+  { "alumno": "", "nota": 9.5, "ranking": 2 },
+  { "alumno": "", "nota": 7.75, "ranking": 20 },
+  { "alumno": "", "nota": 9, "ranking": 80 },
+  { "alumno": "", "nota": 6, "ranking": 1 },
+  { "alumno": "", "nota": 2.5, "ranking": 100 },
+  { "alumno": "", "nota": 5.2, "ranking": 15 },
+  { "alumno": "", "nota": 10, "ranking":  22}
 ]
