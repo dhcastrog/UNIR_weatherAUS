@@ -1,0 +1,11 @@
+var data = [
+  { "alumno": "Pedro", "nota": 9.09, "ranking": 10 },
+  { "alumno": "Juan", "nota": 4, "ranking": 150 },
+  { "alumno": "Diego", "nota": 9.2, "ranking": 2 },
+  { "alumno": "Ana", "nota": 7.8, "ranking": 20 },
+  { "alumno": "Jose", "nota": 5.3, "ranking": 80 },
+  { "alumno": "Patricia", "nota": 10.0, "ranking": 1 },
+  { "alumno": "Natalia", "nota": 4.9, "ranking": 100 },
+  { "alumno": "Esperanza", "nota": 8.1, "ranking": 15 },
+  { "alumno": "Jaime", "nota": 7.4, "ranking":  22}
+];
